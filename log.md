@@ -15,3 +15,13 @@
 **Thoughts:** Recently I took [CSSGrid Wes Bos' course](https://cssgrid.io/) and decided to use it on the Calculator App. Also added event listeners for the calculator keys. Then worked on the JS + CSS Clock challenge. Took the same approach of last challenge, paused the video and made my own version. Got stuck on the hour but eventually came with a solution. Tomorrow, I will watch the solution video and compare code. ***Need to look for a way to reset the degrees from 360 to 0 without jumping. Right now they're increasing indefinetly.***
 
 **Link to work:** [JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+
+### R1D3: April 5, 2018
+
+**Today's Progress**: Fixed JS + CSS Clock jumping issue and implemented 2 user stories of the [Calculator App] (https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
+
+**Thoughts:** After watching the solution video of the JS + CSS Clock, I realized that the issue that I was dealing, reset the degrees from 360 to 0 withput jumping, wasn't fixed on the final version. So I felt glad that I could come with some solution, maybe is not the best approach but at least is not doing that move.
+
+**Links to work:** 
+[JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+*Calculator App Coming Soon*
