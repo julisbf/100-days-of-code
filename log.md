@@ -20,7 +20,7 @@
 
 **Today's Progress**: Fixed JS + CSS Clock jumping issue and implemented 2 user stories of the [Calculator App] (https://www.freecodecamp.org/challenges/build-a-javascript-calculator)
 
-**Thoughts:** After watching the solution video of the JS + CSS Clock, I realized that the issue that I was dealing, reset the degrees from 360 to 0 withput jumping, wasn't fixed on the final version. So I felt glad that I could come with some solution, maybe is not the best approach but at least is not doing that move.
+**Thoughts:** After watching the solution video of the JS + CSS Clock, I realized the issue that I was dealing, *reset the degrees from 360 to 0 withput jumping*, wasn't fixed on the final version. So I felt glad that I could come with some sort of solution, maybe is not the best approach but at least is not doing that move.
 
 **Links to work:** 
 [JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
