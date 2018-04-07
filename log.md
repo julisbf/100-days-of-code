@@ -25,3 +25,9 @@
 **Links to work:** 
 [JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
 *Calculator App Coming Soon*
+
+### R1D4 April 6, 2018
+
+**Today's Progress**: Started to read [Designing for Performance](http://designingforperformance.com/) *by Lara Callender Hogan*, and worked on the Calculator App
+
+**Thoughts:** Now I can do any operation between multiple numbers with single digit but after the 3rd number, if it has more than one digit doesn't work. Also added a new input to show all the chain operations.
