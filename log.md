@@ -31,3 +31,11 @@
 **Today's Progress**: Started to read [Designing for Performance](http://designingforperformance.com/) *by Lara Callender Hogan*, and worked on the Calculator App
 
 **Thoughts:** Now I can do any operation between multiple numbers with single digit but after the 3rd number, if it has more than one digit doesn't work. Also added a new input to show all the chain operations.
+
+### R1D5 April 8, 2018
+**Today's Progress**: Couldn't work in any code. Continue reading [Designing for Performance](http://designingforperformance.com/)
+
+### R1D6 April 9, 2018
+**Today's Progress**: Finished Web Develop Bootcamp, I was missing the last section. Also made some changes to the final project YelpCamp. 
+
+**Thoughts:**  I would come back to the final section on wdbc since it's about JS OOP, keyword this and closures. Also I will be using the YelpCamp to test any new learned topic.
