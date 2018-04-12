@@ -52,4 +52,14 @@
 ### R1D8 April 11, 2018
 **Today's Progress**: Worked in the Calculator App RPN implementation
 
-**Thoughts:** I was managed to allow negative numbers and substract operation. Still have issue with decimal numbers as result and the uses in the operation chain.
+**Thoughts:** I was managed to allow negative numbers and substract operation. Still have issue with decimal numbers as result and then use it in the operation chain.
+
+### R1D9 April 12, 2018
+**Today's Progress**: Made 2 more challenges from Javascrip30, Flex Panel Gallery and Type Ahead. Fixed decimal issue and enabled the period in the Calculator App.
+
+**Thoughts:** Need to work more with Array and String methods such as filter, match, includes, etc. Also I would start the css course that bought from Udemy, so I can understand better flexbox and transitions. 
+Calculator App logic is almost done. Struggle with delimit the numbers after the period. Want to implement a delete button which deletes each character enter. Need to refactor and change the look & feel.
+
+**Links to work:** 
+[Flex Panel Gallery](https://github.com/julisbf/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+[Type Ahead](https://github.com/julisbf/JavaScript30/tree/master/06%20-%20Type%20Ahead)
