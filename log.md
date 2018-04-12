@@ -38,4 +38,18 @@
 ### R1D6 April 9, 2018
 **Today's Progress**: Finished Web Develop Bootcamp, I was missing the last section. Also made some changes to the final project [YelpCamp](https://yelpcamp-jbf.herokuapp.com/). 
 
-**Thoughts:**  I would come back to the final section on wdbc since it's about JS OOP, keyword this and closures. Also I will be using the YelpCamp to test any new learned topic.
+**Thoughts:** I would come back to the final section on wdbc since it's about JS OOP, keyword this and closures. Also I will be using the YelpCamp to test any new learned topic.
+
+### R1D7 April 10, 2018
+**Today's Progress**: Worked int the 3rd (Css Variables) and 4th (Array Cardio Day 1) Challenges of [Javascript30](https://javascript30.com/). Afterward, continue with the [Calculator App] (https://www.freecodecamp.org/challenges/build-a-javascript-calculator) 
+
+**Thoughts:** Since I wasn't able to successfully implement the chaining calculation, went to the web and found out RPN *([Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation))* is a good way to tackle this issue. So started to implement it but got problems with negative numbers. The Array Cardio Day 1 exercise was a great because allowed me to better understand array methods, still need more practice.
+
+**Links to work:** 
+[Css Variables](https://github.com/julisbf/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+[Array Cardio Day 1](https://github.com/julisbf/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
+
+### R1D8 April 11, 2018
+**Today's Progress**: Worked in the Calculator App RPN implementation
+
+**Thoughts:** I was managed to allow negative numbers and substract operation. Still have issue with decimal numbers as result and the uses in the operation chain.
