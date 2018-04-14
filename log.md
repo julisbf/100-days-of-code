@@ -63,3 +63,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Links to work:** 
 [Flex Panel Gallery](https://github.com/julisbf/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
 [Type Ahead](https://github.com/julisbf/JavaScript30/tree/master/06%20-%20Type%20Ahead)
+
+### R1D10 April 13, 2018
+**Today's Progress**: Started CSS The Complete Guide in Udemy and worked in the Calculator App.
+
+**Thoughts:** Delimited the numbers after the period. When testing the App, found that negative numbers or substract operation are not working. After analized my code and tried different approaches, came with a possible solution that will be implemented in these days. Hopefully it will work.
