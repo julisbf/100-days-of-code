@@ -22,8 +22,8 @@
 
 **Thoughts:** After watching the solution video of the JS + CSS Clock, I realized the issue that I was dealing, *reset the degrees from 360 to 0 withput jumping*, wasn't fixed on the final version. So I felt glad that I could come with some sort of solution, maybe is not the best approach but at least is not doing that move.
 
-**Links to work:** 
-[JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)
+**Links to work:** \
+[JS + CSS Clock](https://github.com/julisbf/JavaScript30/tree/master/02%20-%20JS%20and%20CSS%20Clock)\
 *Calculator App Coming Soon*
 
 ### R1D4 April 6, 2018
@@ -45,8 +45,8 @@
 
 **Thoughts:** Since I wasn't able to successfully implement the chaining calculation, went to the web and found out RPN *([Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation))* is a good way to tackle this issue. So started to implement it but got problems with negative numbers. The Array Cardio Day 1 exercise was a great because allowed me to better understand array methods, still need more practice.
 
-**Links to work:** 
-[Css Variables](https://github.com/julisbf/JavaScript30/tree/master/03%20-%20CSS%20Variables)
+**Links to work:** \
+[Css Variables](https://github.com/julisbf/JavaScript30/tree/master/03%20-%20CSS%20Variables)\
 [Array Cardio Day 1](https://github.com/julisbf/JavaScript30/tree/master/04%20-%20Array%20Cardio%20Day%201)
 
 ### R1D8 April 11, 2018
@@ -60,8 +60,8 @@
 **Thoughts:** Need to work more with Array and String methods such as filter, match, includes, etc. Also I would start the css course that bought from Udemy, so I can understand better flexbox and transitions. 
 Calculator App logic is almost done. Struggle with delimit the numbers after the period. Want to implement a delete button which deletes each character enter. Need to refactor and change the look & feel.
 
-**Links to work:** 
-[Flex Panel Gallery](https://github.com/julisbf/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)
+**Links to work:** \
+[Flex Panel Gallery](https://github.com/julisbf/JavaScript30/tree/master/05%20-%20Flex%20Panel%20Gallery)\
 [Type Ahead](https://github.com/julisbf/JavaScript30/tree/master/06%20-%20Type%20Ahead)
 
 ### R1D10 April 13, 2018
@@ -72,4 +72,12 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 ### R1D11 April 14, 2018
 **Today's Progress**: Worked in the Calculator App.
 
-**Thoughts:** After working a ouple of hours in the App, I decided to make some changes. Changed the way am managed the input data and used split() instead of match(), since getting the right RegExp was changing another outcomes. Now it is working but if starts with a negative number, it doesn't. I will redo the operators handler. 
+**Thoughts:** After working a couple of hours in the App, I decided to make some changes. Changed the way am managed the input data and used split() instead of match(), since getting the right RegExp was changing another outcomes. Now it is working but if starts with a negative number, it doesn't. I will redo the operators handler. 
+
+### R1D12 April 16, 2018
+**Today's Progress**: Finished the Calculator App.
+
+**Thoughts:** Finally I got my calculator working. Changed the layout and posted in Codepen.
+
+**Links to work:** \
+[Calculator App](https://codepen.io/julisbf/full/OvMmNM/)
