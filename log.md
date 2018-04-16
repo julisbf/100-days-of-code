@@ -68,3 +68,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Started CSS The Complete Guide in Udemy and worked in the Calculator App.
 
 **Thoughts:** Delimited the numbers after the period. When testing the App, found that negative numbers or substract operation are not working. After analized my code and tried different approaches, came with a possible solution that will be implemented in these days. Hopefully it will work.
+
+### R1D11 April 14, 2018
+**Today's Progress**: Worked in the Calculator App.
+
+**Thoughts:** After working a ouple of hours in the App, I decided to make some changes. Changed the way am managed the input data and used split() instead of match(), since getting the right RegExp was changing another outcomes. Now it is working but if starts with a negative number, it doesn't. I will redo the operators handler. 
