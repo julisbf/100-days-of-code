@@ -83,7 +83,7 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 [Calculator App](https://codepen.io/julisbf/full/OvMmNM/)
 
 ### R1D13 April 17, 2018
-**Today's Progress**: Worked in 2 challenges from Javascript30 and afterward, watched CSS The Complete Guide course in Udemy.
+**Today's Progress**: Worked in 2 challenges from Javascript30 and afterward, watched CSS The Complete Guide course in Udemy. Then retook Nodejs module from FreeCodeCamp. Completed HTTP Collect exercise.
 
 **Thoughts:** Both challenges helped me to grasp more into Arrays and Canvas. Still need to check more about Canvas, eventually will come back. And the CSS course clarified some properties funcionality, such as box-sizing.
 
