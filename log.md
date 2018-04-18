@@ -41,7 +41,7 @@
 **Thoughts:** I would come back to the final section on wdbc since it's about JS OOP, keyword this and closures. Also I will be using the YelpCamp to test any new learned topic.
 
 ### R1D7 April 10, 2018
-**Today's Progress**: Worked int the 3rd (Css Variables) and 4th (Array Cardio Day 1) Challenges of [Javascript30](https://javascript30.com/). Afterward, continue with the [Calculator App] (https://www.freecodecamp.org/challenges/build-a-javascript-calculator) 
+**Today's Progress**: Worked in the 3rd (Css Variables) and 4th (Array Cardio Day 1) Challenges of [Javascript30](https://javascript30.com/). Afterward, continue with the [Calculator App] (https://www.freecodecamp.org/challenges/build-a-javascript-calculator) 
 
 **Thoughts:** Since I wasn't able to successfully implement the chaining calculation, went to the web and found out RPN *([Reverse Polish Notation](https://en.wikipedia.org/wiki/Reverse_Polish_notation))* is a good way to tackle this issue. So started to implement it but got problems with negative numbers. The Array Cardio Day 1 exercise was a great because allowed me to better understand array methods, still need more practice.
 
@@ -81,3 +81,12 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Links to work:** \
 [Calculator App](https://codepen.io/julisbf/full/OvMmNM/)
+
+### R1D13 April 17, 2018
+**Today's Progress**: Worked in 2 challenges from Javascript30 and afterward, watched CSS The Complete Guide course in Udemy.
+
+**Thoughts:** Both challenges helped me to grasp more into Arrays and Canvas. Still need to check more about Canvas, eventually will come back. And the CSS course clarified some properties funcionality, such as box-sizing.
+
+**Links to work:** \
+[Array Cardio Day 2](https://github.com/julisbf/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202) \
+[Fun with HTML5 Canvas](https://github.com/julisbf/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
