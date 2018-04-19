@@ -90,3 +90,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Links to work:** \
 [Array Cardio Day 2](https://github.com/julisbf/JavaScript30/tree/master/07%20-%20Array%20Cardio%20Day%202) \
 [Fun with HTML5 Canvas](https://github.com/julisbf/JavaScript30/tree/master/08%20-%20Fun%20with%20HTML5%20Canvas)
+
+## R1D14 April 18, 2018
+**Today's Progress**: Finished Node.js and Express.js module in FreeCodeCamp.
+
+**Thoughts:** I struggle a little bit with Node.js exercises because thought I had to do something more complicated. Since I recently finished Web Development Bootcamp, was more easy to do the exercises but also helped me to understand better basic things from Node.js. 
