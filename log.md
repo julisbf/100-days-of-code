@@ -95,3 +95,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Finished Node.js and Express.js module in FreeCodeCamp.
 
 **Thoughts:** I struggle a little bit with Node.js exercises because thought I had to do something more complicated. Since I recently finished Web Development Bootcamp, was more easy to do the exercises but also helped me to understand better basic things from Node.js. 
+
+## R1D15 April 19, 2018
+**Today's Progress**: Started the Pomodoro Clock from FreeCodeCamp. Then worked on Git and MongoDB modules, and finished them.
+
+**Thoughts:** Had some issues with a couple of exercise from the MongoDB module. They were outdated, so needed to look for a solution in the web. It was a good way to enforce what I learned on the WDBC course.
