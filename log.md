@@ -99,4 +99,9 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 ## R1D15 April 19, 2018
 **Today's Progress**: Started the Pomodoro Clock from FreeCodeCamp. Then worked on Git and MongoDB modules, and finished them.
 
-**Thoughts:** Had some issues with a couple of exercise from the MongoDB module. They were outdated, so needed to look for a solution in the web. It was a good way to enforce what I learned on the WDBC course.
+**Thoughts:** Had some issues with a couple of exercise from the MongoDB module. They were outdated, so needed to look for a solution in the web. It was a good way to reinforce what I learned on the WDBC course.
+
+## R1D16 April 20, 2018
+**Today's Progress**: Added a task name field to the Pomodoro Clock and saved every input (session length, break time & task name) into localStorage.
+
+**Thoughts:** At first I thought in using service workers and indexedDB, but it was so complicated that it didn't worth it for 3 fields. Then looked for localStorage and realized it was better for my main purpose, keep user's last selected preferences.
