@@ -105,3 +105,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Added a task name field to the Pomodoro Clock and saved every input (session length, break time & task name) into localStorage.
 
 **Thoughts:** At first I thought in using service workers and indexedDB, but it was so complicated that it didn't worth it for 3 fields. Then looked for localStorage and realized it was better for my main purpose, keep user's last selected preferences.
+
+## R1D17 April 22, 2018
+**Today's Progress**: Read Design for Performance. Tried to implement digital numbers with CSS on the Pomodoro Clock.
+
+**Thoughts:** Wanted to create a digital clock with CSS but I think it can have performance issues, so maybe I will do it with a digital font.
