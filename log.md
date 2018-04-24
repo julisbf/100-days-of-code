@@ -110,3 +110,12 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Read Design for Performance. Tried to implement digital numbers with CSS on the Pomodoro Clock.
 
 **Thoughts:** Wanted to create a digital clock with CSS but I think it can have performance issues, so maybe I will do it with a digital font.
+
+## R1D18 April 23, 2018
+**Today's Progress**: Worked in 2 challenges from Javascript30, *Hold Shift & Check Checkboxes and Custom Video Player*.
+
+**Thoughts:** Learned how with an mouse event you can check if shift is press down. Also can do it with alt, ctrl, or metakeys (On Macintosh keyboards, command key (⌘). On Windows keyboards, this is the windows key (⊞)). On the custom video player, understood how fullscreen needs to be handle.
+
+**Links to work:** \
+[Hold Shift & Check Checkboxes](https://github.com/julisbf/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) \
+[Custom Video Player](https://github.com/julisbf/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
