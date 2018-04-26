@@ -119,3 +119,17 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Links to work:** \
 [Hold Shift & Check Checkboxes](https://github.com/julisbf/JavaScript30/tree/master/10%20-%20Hold%20Shift%20and%20Check%20Checkboxes) \
 [Custom Video Player](https://github.com/julisbf/JavaScript30/tree/master/11%20-%20Custom%20Video%20Player)
+
+## R1D19 April 24, 2018
+**Today's Progress**: Watched some videos from CSS - TCG in Udemy and Jen Simmons [Layout Land YouTube channel](https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag). Afterward, started to work on CSS Grid idea from Jan Tschichold.
+
+**Thoughts:** Still need to practice with more examples. The idea is to start with simple layout without grid and then mobile-first approach. I really enjoyed doing it. Tomorrow I will work on the mobile-first layout.
+
+## R1D20 April 25, 2018
+**Today's Progress**: Continue with the CSS Grid idea, finished and published in Codepen.
+
+**Thoughts:** Looking forward to work in the next layout.
+
+**Links to work:** \
+[Jan Tschihold using CSS Grid](https://codepen.io/julisbf/full/odzvmb/)
+
