@@ -133,3 +133,13 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Links to work:** \
 [Jan Tschihold using CSS Grid](https://codepen.io/julisbf/full/odzvmb/)
 
+## R1D21 April 26, 2018
+**Today's Progress**: Started with the Pomodoro design, tried different ideas with css grid, color combinations and layouts.
+
+**Thoughts:** I just gathered different design ideas. In the other hand, I received an invitation from [Jen Simmons](http://labs.jensimmons.com/), designer advocate at Mozilla, to join CSS Layout Club.
+
+## R1D22 April 27, 2018
+**Today's Progress**: Continue with the layout for the Pomodoro.
+
+**Thoughts:** Wanted to do somthing more interactive, so came across with Braile Alphabet and focused my idea on that. Grids for the name are ready. Tommorrow will work on the numbers.
+
