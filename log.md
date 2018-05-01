@@ -141,5 +141,19 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 ## R1D22 April 27, 2018
 **Today's Progress**: Continue with the layout for the Pomodoro.
 
-**Thoughts:** Wanted to do somthing more interactive, so came across with Braile Alphabet and focused my idea on that. Grids for the name are ready. Tommorrow will work on the numbers.
+**Thoughts:** Wanted to do something more interactive, so came across with Braile Alphabet and focused my idea on that. Grids for the name are ready. Tommorrow will work on the numbers.
 
+## R1D23 April 28, 2018
+**Today's Progress**: Continue with the Pomodoro Clock.
+
+**Thoughts:** Implemented the counting with dots, showing each number on its Braile equivalent.
+
+## R1D24 April 29, 2018
+**Today's Progress**: Continue with the layout for the Pomodoro.
+
+**Thoughts:** Changed the whole look and feel. Chose the scheme color and typography. Need to work on the responsive desgin.
+
+## R1D25 April 30, 2018
+**Today's Progress**: Continue with the layout for the Pomodoro.
+
+**Thoughts:** Reorganized some elements from the layout and started with the responsive design. Still need to work on that.
