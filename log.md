@@ -157,3 +157,19 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Continue with the layout for the Pomodoro.
 
 **Thoughts:** Reorganized some elements from the layout and started with the responsive design. Still need to work on that.
+
+## R1D26 May 01, 2018
+**Today's Progress**: Watched CSS - TCG and CSS Layout Land videos. Continue with the layout for the Pomodoro.
+
+**Thoughts:** Started to understand BEM convention. Will be applied on the Pomodoro project.
+
+## R1D27 May 02, 2018
+**Today's Progress**: Continue with the layout for the Pomodoro. Started with the responsive design. 
+
+**Thoughts:** For next time, I should begin with the smallest one that works in browser and afterward start to add more funcionality.
+
+## R1D28 May 03, 2018
+**Today's Progress**: Layout for the Pomodoro is almost done.
+
+**Thoughts:** Clock layout works in different sizes but now break time is broken. Also want to change the background color depend on what clock is doing, session or break.
+
