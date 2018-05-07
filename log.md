@@ -187,3 +187,6 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Refactored and uploaded my Pomodoro Clock in Codepen. Watched more videos from Layout Land
 
 **Thoughts:** Need to add comments to my code, but first I will do some research to see what is a good practice.
+
+**Links to work:** \
+[Pomodoro Clock](https://codepen.io/julisbf/full/aGVQJZ/)\
