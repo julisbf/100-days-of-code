@@ -173,3 +173,17 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Thoughts:** Clock layout works in different sizes but now break time is broken. Also want to change the background color depend on what clock is doing, session or break.
 
+## R1D29 May 04, 2018
+**Today's Progress**: Fixed issue when switching between session to break time. Added background color change depends on the task, session or break time. Started to read an article about how to use Git by Francesco Agnoletto, [How to not f-up your local files with git](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-1-e0756c88fd3c)
+
+**Thoughts:** After reading the article, I understood that if I manage my commits as he suggested, I will be more clear with my steps and thoughts.
+
+## R1D30 May 06, 2018
+**Today's Progress**: Continue to read the 2nd and 3rd part of Francesco Agnoletto's article, [How to not f-up your local files with git part 2](https://medium.com/@francesco.agnoletto/how-to-not-f-up-your-local-files-with-git-part-2-fc4e243be02a) and [part 3](https://medium.com/chingu/how-to-not-f-up-your-local-files-with-git-part-3-bf03b27b6e64). Also watched a couple of videos from Layout Land by Jen Simmons
+
+**Thoughts:** Definitely I need to start applying what Francesco is talking in his article for a better understanding of my commits. 
+
+## R1D31 May 07, 2018
+**Today's Progress**: Refactored and uploaded my Pomodoro Clock in Codepen. Watched more videos from Layout Land
+
+**Thoughts:** Need to add comments to my code, but first I will do some research to see what is a good practice.
