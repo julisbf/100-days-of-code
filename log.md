@@ -190,3 +190,13 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Links to work:** \
 [Pomodoro Clock](https://codepen.io/julisbf/full/aGVQJZ/)\
+
+## R1D32 May 08, 2018
+**Today's Progress**: Started an exercise with CSS Grid recreating a Mike Joyce poster. Did Javascript30 exercise 12 and watched exercise 13
+
+**Thoughts:** Using Dev Tools to change layout setup, you can get some interting ideas.
+
+## R1D33 May 09, 2018
+**Today's Progress**: Redo the CSS Grid layout. Finished chapter 3 of Designing for Performance.
+
+**Thoughts:** Images are the ones which increase page load time. "Schedule a routine check for your site to see what images can be reused, combined, or re-exported in a different format". And also reducing their request help to reduce page load time.
