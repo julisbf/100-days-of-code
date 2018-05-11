@@ -200,3 +200,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Redo the CSS Grid layout. Finished chapter 3 of Designing for Performance.
 
 **Thoughts:** Images are the ones which increase page load time. "Schedule a routine check for your site to see what images can be reused, combined, or re-exported in a different format". And also reducing their request help to reduce page load time.
+
+## R1D34 May 10, 2018
+**Today's Progress**: Started with Vue.js course in Udemy. Watched Getting Started and using VueJS to Intereact with the DOM.
+
+**Thoughts:** In the last exercise point 4, it was confusing that you need it to leave empty the input in order to have a false statement, since the DOM returns a string and not a boolean. Still all the manipulation is a little confused but I think with more practice will get used it. Looking forward to build something with it.
