@@ -189,7 +189,7 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Thoughts:** Need to add comments to my code, but first I will do some research to see what is a good practice.
 
 **Links to work:** \
-[Pomodoro Clock](https://codepen.io/julisbf/full/aGVQJZ/)\
+[Pomodoro Clock](https://codepen.io/julisbf/full/aGVQJZ/)
 
 ## R1D32 May 08, 2018
 **Today's Progress**: Started an exercise with CSS Grid recreating a Mike Joyce poster. Did Javascript30 exercise 12 and watched exercise 13
@@ -205,3 +205,18 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Started with Vue.js course in Udemy. Watched Getting Started and using VueJS to Intereact with the DOM.
 
 **Thoughts:** In the last exercise point 4, it was confusing that you need it to leave empty the input in order to have a false statement, since the DOM returns a string and not a boolean. Still all the manipulation is a little confused but I think with more practice will get used it. Looking forward to build something with it.
+
+## R1D35 May 11, 2018
+**Today's Progress**: Continue with Vue.js course in Udemy. Watched Using Conditionals and Rendering Lists.
+
+**Thoughts:** Understood how to use conditionals and also how to looping through lists or objects. In the last exercise I had to combine conditionals and looping.
+
+## R1D36 May 12, 2018
+**Today's Progress**: Started to read Chapter 4 from Designing for Performance, Optimizing Markup and Styles.
+
+**Thoughts:** After everything I have read in this book, it's a good guidance when am working in any web project. 
+
+## R1D37 May 13, 2018
+**Today's Progress**: Watched last episode season 1 of CSS Layout Land.
+
+**Thoughts:** Layouts not need to be boring anymore. CSS grid allows us to create different layouts, not just the column ones. 
