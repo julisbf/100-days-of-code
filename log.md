@@ -201,6 +201,9 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Thoughts:** Images are the ones which increase page load time. "Schedule a routine check for your site to see what images can be reused, combined, or re-exported in a different format". And also reducing their request help to reduce page load time.
 
+**Links to work:** \
+[Mike Joyce Poster](https://codepen.io/julisbf/full/vjRwVq/)
+
 ## R1D34 May 10, 2018
 **Today's Progress**: Started with Vue.js course in Udemy. Watched Getting Started and using VueJS to Intereact with the DOM.
 
@@ -220,3 +223,13 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Watched last episode season 1 of CSS Layout Land.
 
 **Thoughts:** Layouts not need to be boring anymore. CSS grid allows us to create different layouts, not just the column ones. 
+
+## R1D38 May 15, 2018
+**Today's Progress**: Went to a meetup and had my first pair programming.
+
+**Thoughts:** I attended a meetup where the topica was about *Recursion*, after the explanation with had a pair programming session. We did 2 exercises. For the 1st exercise, I was the driver and in the 2nd one the navigator. Being the navigator wasn't easy but after all it was just my first time. I will have more opportunities in the Chingu Vogaye 5. 
+
+## R1D39 May 16, 2018
+**Today's Progress**: Continue with VueJS course, The Monster Slayer.
+
+**Thoughts:** On this project I decided to codealong with Max since I wanted a better understanding of the way VueJS works. I think now it's more clear and am ready to try it in the next course project.
