@@ -233,3 +233,13 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Continue with VueJS course, The Monster Slayer.
 
 **Thoughts:** On this project I decided to codealong with Max since I wanted a better understanding of the way VueJS works. I think now it's more clear and am ready to try it in the next course project.
+
+## R1D40 May 17, 2018
+**Today's Progress**: Attended a meetup of WWC.
+
+**Thoughts:** On that day we worked in different algorithms. It was fun because we were 5 people trying to resolve algorithms. Everyone was sharing its own point of view. I definitely will attend another one. 
+
+## R1D41 May 18, 2018
+**Today's Progress**: Continue with VueJS course, Real development workflow with Webpack and Vue CLI.
+
+**Thoughts:** I had to create a single layout using multiple components, locally or globally.
