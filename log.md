@@ -243,3 +243,13 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Continue with VueJS course, Real development workflow with Webpack and Vue CLI.
 
 **Thoughts:** I had to create a single layout using multiple components, locally or globally.
+
+## R1D42 May 21, 2018
+**Today's Progress**: Continue with VueJS course, Introduction with Components. My Chingu team was assigned :)
+
+**Thoughts:** I went bac to a previous assignment where I separeted every part of the layout in different components and then added them on single component, the parent.
+
+## R1D43 May 22, 2018
+**Today's Progress**: Continue with VueJS course, Communication between Components and Advanced Component Usage.
+
+**Thoughts:** It's amazing how VueJS simplifies many steps in the interaction implementation. Sometimes is a little confuse but with practice, I think it will have more and more sense
