@@ -247,9 +247,27 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 ## R1D42 May 21, 2018
 **Today's Progress**: Continue with VueJS course, Introduction with Components. My Chingu team was assigned :)
 
-**Thoughts:** I went bac to a previous assignment where I separeted every part of the layout in different components and then added them on single component, the parent.
+**Thoughts:** I went back to a previous assignment where I separated every part of the layout in different components and then added them on single component, the parent.
 
 ## R1D43 May 22, 2018
 **Today's Progress**: Continue with VueJS course, Communication between Components and Advanced Component Usage.
 
 **Thoughts:** It's amazing how VueJS simplifies many steps in the interaction implementation. Sometimes is a little confuse but with practice, I think it will have more and more sense
+
+## R1D44 May 23, 2018
+**Today's Progress**: Continue with VueJS course, Second course project - Wonderful Quotes. First meeting with my Chingu's team
+
+**Thoughts:** I watched the video of the assigment but didn't code. Just thougth how am going to implement it.
+
+## R1D45 May 24, 2018
+**Today's Progress**: Continue with VueJS course, Wonderful Quotes Project. Pair programming metting and voting day
+
+**Thoughts:** I was confused on what I needed to start, so decided to code along Max. Sometimes I did it before seeing the solution. Need to finish it. And with my programming partner, we figured which platform to use and stablished our roadmap for the TicTacToe. 
+
+## R1D46 May 25, 2018
+**Today's Progress**: Continue with VueJS course, Wonderful Quotes. Javascript30 localStorage exercise #15
+
+**Thoughts:** I finished the project but want to apply that on another mini project, maybe my portfolio. In the localStorage exercise, I used atomic commits so I get used to it. Also added the extra the delete and select buttons, as Wes Bos suggested.
+
+**Links to work:** \
+[Javascript30 - localStorage](https://github.com/julisbf/JavaScript30/tree/master/15%20-%20LocalStorage)
