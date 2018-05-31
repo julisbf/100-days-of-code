@@ -265,9 +265,34 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Thoughts:** I was confused on what I needed to start, so decided to code along Max. Sometimes I did it before seeing the solution. Need to finish it. And with my programming partner, we figured which platform to use and stablished our roadmap for the TicTacToe. 
 
 ## R1D46 May 25, 2018
-**Today's Progress**: Continue with VueJS course, Wonderful Quotes. Javascript30 localStorage exercise #15
+**Today's Progress**: Continue with VueJS course, Wonderful Quotes. Javascript30 localStorage exercise #15. 1st meeting with Chingu Team 
 
 **Thoughts:** I finished the project but want to apply that on another mini project, maybe my portfolio. In the localStorage exercise, I used atomic commits so I get used to it. Also added the extra the delete and select buttons, as Wes Bos suggested.
 
 **Links to work:** \
 [Javascript30 - localStorage](https://github.com/julisbf/JavaScript30/tree/master/15%20-%20LocalStorage)
+
+## R1D47 May 27, 2018
+**Today's Progress**: 2nd meeting with Chingu Team. 
+
+**Thoughts:** At the meeting we discussed insights about our coming project. Tools and stack that we are planning to use. 
+
+## R1D48 May 28, 2018
+**Today's Progress**: 3rd meeting with Chingu Team. Watched videos about Minimax algorithm.
+
+**Thoughts:** At the meeting we continued to think in our app functionality, and figured out how to approach it.
+
+## R1D49 May 29, 2018
+**Today's Progress**: Watched videos about Minimax algorithm.
+
+**Thoughts:** I want to do the Tic Tac Toe game, so looked for approaches and came across with the Minimax and Alpha Beta algorithms. Now I need to understand how to apply them.
+
+## R1D50 May 30, 2018
+**Today's Progress**: Started to setup our Chingu's project.
+
+**Thoughts:** When you don't have graphic to help you understand what you have to do, it's really difficult to begin a project. We have many ideas but don't how exactly share them. 
+
+## R1D51 May 31, 2018
+**Today's Progress**: Changes on GitHub and Cloud9 for Chingu's project
+
+**Thoughts:** After tried to setup our GitHub with Cloud9, decided to create a new workspace and start over again. At this point, we can do that but later will be difficult. Still many stuff to do. This is just the beginning
