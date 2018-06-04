@@ -296,3 +296,14 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Changes on GitHub and Cloud9 for Chingu's project
 
 **Thoughts:** After tried to setup our GitHub with Cloud9, decided to create a new workspace and start over again. At this point, we can do that but later will be difficult. Still many stuff to do. This is just the beginning
+
+## R1D52 Jun 01, 2018
+**Today's Progress**: Watched videos to understand how to set up a MERN stack app
+
+**Thoughts:** It looks that Apollo is a good idea to use with GraphQL for backend. Switching from REST to GraphQL
+
+## R1D53 Jun 03, 2018
+**Today's Progress**: Continue with my exploring of Apollo and GraphQL
+
+**Thoughts:** Try to find a good way to set up our enviorment in workspace. Need to read more. Tomorrow I will try to set up the new structure.
+
