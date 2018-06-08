@@ -307,3 +307,28 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Thoughts:** Try to find a good way to set up our enviorment in workspace. Need to read more. Tomorrow I will try to set up the new structure.
 
+## R1D54 Jun 04, 2018
+**Today's Progress**: Started to work on a Drum Machine for FCC
+
+**Thoughts:** I met up with my programming partner and started to define how should we work on this small project. We decided to meet up again on Thursday bringing our own HTML and CSS, so we can work together on the JS.
+
+## R1D55 Jun 05, 2018
+**Today's Progress**: Continue with the Drum Machine
+
+**Thoughts:** It was a slow day but I managed to create the initial layout. Later on I will improve it.
+
+## R1D56 Jun 06, 2018
+**Today's Progress**: Started with a [GraphQL full stack tutorial](https://youtu.be/ed8SzALpx1Q)
+
+**Thoughts:** As I decided to do the back end for our project in Chingu, I needed to understand how can I use GraphQL instead of RESTful API. So I found a complete tutorial and decided to do it with a record(vinyl) collection.
+
+**Links to work:** \
+[Records Collection](https://github.com/julisbf/graphql-full/)
+
+## R1D57 Jun 07, 2018
+**Today's Progress**: Continue with the [GraphQL full stack tutorial](https://youtu.be/ed8SzALpx1Q). Added Drum Machine functionality and passed FCC test.
+
+**Thoughts:** After finished the server side it's more clear how GraphQL works. I love it. It's easier than RESTful. In the drum machine, I will ask my programming partner if she can help me making it in React.
+
+**Links to work:** \
+[Records Collection](https://github.com/julisbf/graphql-full/)
