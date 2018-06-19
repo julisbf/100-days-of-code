@@ -332,3 +332,8 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 
 **Links to work:** \
 [Records Collection](https://github.com/julisbf/graphql-full/)
+
+## R1D58 - R1D67 Jun 08-19, 2018
+**Today's Progress**: Have been working in Chingu Project
+
+**Thoughts:** Need to understand GraphQL but not sure how can I connect Yelp Api searches with our database. Also found Prisma and am trying to use with our project. Am feeling overhelmed because there are a lot of resources to check and understand.
