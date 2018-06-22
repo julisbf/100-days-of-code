@@ -337,3 +337,19 @@ Calculator App logic is almost done. Struggle with delimit the numbers after the
 **Today's Progress**: Have been working in Chingu Project
 
 **Thoughts:** Need to understand GraphQL but not sure how can I connect Yelp Api searches with our database. Also found Prisma and am trying to use with our project. Am feeling overhelmed because there are a lot of resources to check and understand.
+
+## R1D68 Jun 20, 2018
+**Today's Progress**: Created a YELP API fetch for our Chingu Project
+
+**Thoughts:** After had been looking for a way to use Yelp Graphql API, decided to use the REST version. Since we are only going to use the search, it is not needed for the GraphQL version. 
+
+**Links to work:** \
+[Yelp Fetch](https://github.com/julisbf/yelp-fetch)
+
+## R1D69 Jun 21, 2018
+**Today's Progress**: Finished *How To GraphQL Node.js Tutorial* and added Yelp Fetch on the backend in our Chingu Project. 
+
+**Thoughts:** At the end of the tutorial they share some resources and one that I will use in our CHingu project it's the boilerplate for Fullstack React App GraphQL.
+
+**Links to work:** \
+[How To GraphQL](https://www.howtographql.com/)
